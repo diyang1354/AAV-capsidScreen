@@ -1,3 +1,1 @@
-This is my first git repo.
-now check my git works well.
-Revise readme 3rd time.
+Code to analyze AAV9 capsid screen data
